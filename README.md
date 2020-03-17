@@ -9,5 +9,3 @@
 ## Superlearning
 
 [Superlearning](visual-guides/SL.pdf), an ensemble learning algorithm also known as stacking, which is recommended to use with TMLE.
-
-![alt text](visusal-guides/TMLE.pdf)
