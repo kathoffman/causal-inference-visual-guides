@@ -10,4 +10,4 @@
 
 [Superlearning](visual-guides/SL.pdf), an ensemble learning algorithm also known as stacking, which is recommended to use with TMLE.
 
-![alt text](https://raw.githubusercontent.com/hoffmakl/visual-guides/visual-guides/master/TMLE.pdf)
+![alt text](visusal-guides/TMLE.pdf)
