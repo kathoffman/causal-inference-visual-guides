@@ -1,6 +1,6 @@
 # CI-visual-guides
 
-A collection of visual guides designed by Kat Hoffman to help applied scientists learn causal inference. To cite this repository or any of the guides, please use:
+A collection of visual guides designed to help applied scientists learn causal inference. To cite this repository or any of the guides, please use:
 
 Current guides include:
 
