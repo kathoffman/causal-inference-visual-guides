@@ -1,4 +1,4 @@
-# CI-visual-guides
+# Visual Guides for Causal Inference
 
 A collection of visual guides designed to help applied scientists learn causal inference. To cite this repository or any of the guides, please use:
 
