@@ -8,6 +8,12 @@ Current guides include:
 
 2. [Superlearning](visual-guides/Superlearning.pdf) (also known as stacking), an ensemble learning method recommended to use with TMLE.
 
+# Citation
+
+To cite any of the guides, please use:
+
+[![DOI](https://zenodo.org/badge/247963255.svg)](https://zenodo.org/badge/latestdoi/247963255)
+
 # References
 
 Laan, M. J., & Rose, S. (2011). Targeted learning: Causal inference for observational and experimental data. New York: Springer.
