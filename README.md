@@ -8,7 +8,7 @@ Current guides include:
 
 1. [Targeted Maximum Likelihood Estimation (TMLE)](visual-guides/TMLE.pdf) for a binary outcome and binary treatment. 
 
-2. [Superlearning](visual-guides/Superlearning.pdf) (also known as stacking), an ensemble learning method recommended to use with TMLE.
+2. [Superlearning](visual-guides/Superlearning.pdf) (also known as stacking), an ensemble learning method recommended to use with TMLE. A full tutorial with `R` code is available [here](https://www.khstats.com/blog/sl/superlearning/)
 
 # References
 
