@@ -14,7 +14,7 @@ Current guides include:
 
 To cite this repository, please use:
 
-Katherine Hoffman. (2020, September 4). hoffmakl/CI-visual-guides: Visual Guides for Causal Inference (Version 1.0). Zenodo. http://doi.org/10.5281/zenodo.4014589
+> Katherine Hoffman. (2020, September 4). hoffmakl/CI-visual-guides: Visual Guides for Causal Inference (Version 1.0). Zenodo. http://doi.org/10.5281/zenodo.4014589
 
 # References
 
