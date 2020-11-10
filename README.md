@@ -6,7 +6,7 @@ A collection of visual guides designed to help applied scientists learn causal i
 
 Current guides include:
 
-1. [Targeted Maximum Likelihood Estimation (TMLE)](visual-guides/TMLE.pdf) for a binary outcome and binary treatment. 
+1. [Targeted Maximum Likelihood Estimation (TMLE)](visual-guides/TMLE.pdf), a doubly robust semiparametric estimation method commonly used for causal inference. The guide shows the steps for estimating the mean difference in outcomes, adjusted for confounders, for a binary outcome and binary treatment.  A full tutorial with `R` code is available on my [blog](https://www.khstats.com/blog/tmle/tutorial/).
 
 2. [Superlearning](visual-guides/Superlearner.pdf) (also known as stacking), an ensemble learning method recommended to use with TMLE. A full tutorial with `R` code is available on my [blog](https://www.khstats.com/blog/sl/superlearning/).
 
