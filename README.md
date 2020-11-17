@@ -8,7 +8,7 @@ Current guides include:
 
 <img src="https://github.com/hoffmakl/CI-visual-guides/blob/master/readme_img/tmle.jpg" width=40%/>
 
-1. [Targeted Maximum Likelihood Estimation (TMLE)](visual-guides/TMLE.pdf), a doubly robust semiparametric estimation method commonly used for causal inference. The guide shows the steps for estimating the mean difference in outcomes, adjusted for confounders, for a binary outcome and binary treatment.  A full tutorial with `R` code is available on my [blog](https://www.khstats.com/blog/tmle/tutorial/).
+1. [Targeted Maximum Likelihood Estimation (TMLE)](visual-guides/TMLE.pdf), a doubly robust semiparametric estimation method commonly used for causal inference. The guide shows the steps for estimating the mean difference in outcomes, adjusted for confounders, for a binary outcome and binary treatment.  A full tutorial with `R` code will be available soon on my blog.
 
 <img src="https://github.com/hoffmakl/CI-visual-guides/blob/master/readme_img/Superlearning.jpg" width=40%/>
 
