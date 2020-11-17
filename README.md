@@ -6,13 +6,13 @@ A collection of visual guides designed to help applied scientists learn causal i
 
 Current guides include:
 
-<a href="https://github.com/hoffmakl/CI-visual-guides/blob/master/visual-guides/TMLE.pdf"><img src="https://github.com/hoffmakl/CI-visual-guides/blob/master/readme_img/tmle.jpg" width=60%/>
-
 1. [Targeted Maximum Likelihood Estimation (TMLE)](visual-guides/TMLE.pdf), a doubly robust semiparametric estimation method commonly used for causal inference. The guide shows the steps for estimating the mean difference in outcomes, adjusted for confounders, for a binary outcome and binary treatment.  A full tutorial with `R` code will be available soon on my blog.
 
-<a href="https://github.com/hoffmakl/CI-visual-guides/blob/master/visual-guides/Superlearner.pdf"><img src="https://github.com/hoffmakl/CI-visual-guides/blob/master/readme_img/Superlearning.jpg" width=60%/>
-
+<a href="https://github.com/hoffmakl/CI-visual-guides/blob/master/visual-guides/TMLE.pdf"><img src="https://github.com/hoffmakl/CI-visual-guides/blob/master/readme_img/tmle.jpg" width=60%/>
+  
 2. [Superlearning](visual-guides/Superlearner.pdf) (also known as stacking), an ensemble learning method recommended to use with TMLE. A full tutorial with `R` code is available on my [blog](https://www.khstats.com/blog/sl/superlearning/).
+
+<a href="https://github.com/hoffmakl/CI-visual-guides/blob/master/visual-guides/Superlearner.pdf"><img src="https://github.com/hoffmakl/CI-visual-guides/blob/master/readme_img/Superlearning.jpg" width=60%/>
 
 # Citation
 
