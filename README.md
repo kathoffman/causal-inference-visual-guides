@@ -6,13 +6,24 @@ A collection of visual guides designed to help applied scientists learn causal i
 
 Current guides include:
 
-1. [Targeted Maximum Likelihood Estimation (TMLE)](visual-guides/TMLE.pdf), a doubly robust semiparametric estimation method commonly used for causal inference. The guide shows the steps for estimating the mean difference in outcomes, adjusted for confounders, for a binary outcome and binary treatment.  A full tutorial with `R` code will be available soon on my blog.
+1. [Targeted Maximum Likelihood Estimation (TMLE)](visual-guides/TMLE.pdf), a doubly robust semiparametric estimation method commonly used for causal inference. The guide shows the steps for estimating the mean difference in outcomes, adjusted for confounders, for a binary outcome and binary treatment.  A full tutorial with `R` code is available on my [blog]().
 
 <a href="https://github.com/hoffmakl/CI-visual-guides/blob/master/visual-guides/TMLE.pdf"><img src="https://github.com/hoffmakl/CI-visual-guides/blob/master/readme_img/tmle.jpg" width=60%/>
   
 2. [Superlearning](visual-guides/Superlearner.pdf) (also known as stacking), an ensemble learning method recommended to use with TMLE. A full tutorial with `R` code is available on my [blog](https://www.khstats.com/blog/sl/superlearning/).
 
 <a href="https://github.com/hoffmakl/CI-visual-guides/blob/master/visual-guides/Superlearner.pdf"><img src="https://github.com/hoffmakl/CI-visual-guides/blob/master/readme_img/Superlearning.jpg" width=60%/>
+  
+3. Causal inference intervention types (static, dynamic, modified) with examples using pollution data. A corresponding [blog post](https://www.khstats.com/blog/lmtp/lmtp/) is also available.
+  
+<a href="https://github.com/hoffmakl/CI-visual-guides/blob/master/visual-guides/Types_of_Interventions.jpg"><img src="https://github.com/hoffmakl/CI-visual-guides/blob/master/readme_img/Types_of_Interventions.jpg" width=60%/>
+  
+# Causal Inference Comics
+  
+I've also been playing around with comics for causal inference concepts! Here's a few so far:
+  
+<a href="https://github.com/hoffmakl/CI-visual-guides/blob/master/comics/climbing_comic.jpg"><img src="https://github.com/hoffmakl/CI-visual-guides/blob/master/readme_img/climbing_comic.jpg" width=30%/>
+   
 
 # Citation
 
