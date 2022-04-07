@@ -23,10 +23,10 @@ Current guides include:
 Recently I've also been playing around with comics for causal inference concepts! Here's a few so far:
 
   
-<a href="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/comics/positivity_comic.jpg"><img src="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/comics/climbing_comic.jpg" width=50%/>
+<a href="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/comics/positivity_comic.jpg"><img src="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/comics/positivity_comic.jpg" width=50%/>
    
   
-<a href="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/comics/universe_comic.jpg"><img src="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/comics/climbing_comic.jpg" width=50%/>
+<a href="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/comics/universe_comic.jpg"><img src="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/comics/universe_comic.jpg" width=50%/>
    
  
 <a href="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/comics/climbing_comic.jpg"><img src="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/comics/climbing_comic.jpg" width=50%/>
