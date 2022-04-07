@@ -14,7 +14,7 @@ Current guides include:
 
 <a href="https://github.com/hoffmakl/CI-visual-guides/blob/master/visual-guides/Superlearner.pdf"><img src="https://github.com/hoffmakl/CI-visual-guides/blob/master/readme_img/Superlearning.jpg" width=60%/>
   
-3. Definitions of causal inference intervention types with examples using pollution data with a corresponding [blog post](https://www.khstats.com/blog/lmtp/lmtp/).
+3. Definitions of [causal inference intervention types](https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/visual-guides/Types_of_Interventions.jpg) with examples using pollution data with a corresponding [blog post](https://www.khstats.com/blog/lmtp/lmtp/)
 
 <a href="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/visual-guides/Types_of_Interventions.jpg"><img src="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/visual-guides/Types_of_Interventions.jpg" width=70%/>
    
