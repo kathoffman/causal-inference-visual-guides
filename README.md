@@ -14,15 +14,14 @@ Current guides include:
 
 <a href="https://github.com/hoffmakl/CI-visual-guides/blob/master/visual-guides/Superlearner.pdf"><img src="https://github.com/hoffmakl/CI-visual-guides/blob/master/readme_img/Superlearning.jpg" width=60%/>
   
-3. Causal inference intervention types (static, dynamic, modified) with examples using pollution data. A corresponding [blog post](https://www.khstats.com/blog/lmtp/lmtp/) is also available.
-  
+3. Definitions of causal inference intervention types with examples using pollution data. A corresponding [blog post](https://www.khstats.com/blog/lmtp/lmtp/) is also available.
 
-<a href="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/visual-guides/Types_of_Interventions.jpg"><img src="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/visual-guides/Types_of_Interventions.jpg" width=30%/>
+<a href="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/visual-guides/Types_of_Interventions.jpg"><img src="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/visual-guides/Types_of_Interventions.jpg" width=60%/>
    
 # Causal Inference Comics
   
-I've also been playing around with comics for causal inference concepts! Here's a few so far:
-  
+Recently I've also been playing around with comics for causal inference concepts! Here's a few so far:
+ 
 
 # Citation
 
