@@ -14,17 +14,22 @@ Current guides include:
 
 <a href="https://github.com/hoffmakl/CI-visual-guides/blob/master/visual-guides/Superlearner.pdf"><img src="https://github.com/hoffmakl/CI-visual-guides/blob/master/readme_img/Superlearning.jpg" width=60%/>
   
-3. Definitions of [causal inference intervention types](visual-guides/Types_of_Interventions.jpg) with examples using U.S. air pollution data and a corresponding [blog post](https://www.khstats.com/blog/lmtp/lmtp/)
+3. Definitions of [causal inference intervention types](visual-guides/Types_of_Interventions.pdf) with examples using U.S. air pollution data and a corresponding [blog post](https://www.khstats.com/blog/lmtp/lmtp/)
 
-<a href="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/visual-guides/Types_of_Interventions.jpg"><img src="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/visual-guides/Types_of_Interventions.jpg" width=70%/>
+<a href="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/visual-guides/Types_of_Interventions.pdf"><img src="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/readme_img/Types_of_Interventions.jpg" width=70%/>
+
+4. The separation of [Identification vs. Estimation](visual-guides/Types_of_Interventions.pdf) in casual inference.
+
+<a href="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/visual-guides/Types_of_Interventions.pdf"><img src="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/readme_img/Identification-vs-Estimation.jpg" width=70%/>
    
 # Causal Inference Comics
   
 Recently I've also been playing around with comics for causal inference concepts! Here's a few so far:
-
+  
+<a href="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/comics/positivity_comic.jpeg"><img src="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/comics/underlying_distributions.jpg" width=50%/>  
   
 <a href="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/comics/positivity_comic.jpeg"><img src="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/comics/positivity_comic.jpeg" width=50%/>
-   
+ 
   
 <a href="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/comics/universe_comic.jpeg"><img src="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/comics/universe_comic.jpeg" width=50%/>
    
