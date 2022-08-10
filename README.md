@@ -16,7 +16,7 @@ Current guides and educational illustrations include:
 
 3. [G-computation](visual-guides/G-Computation.pdf) (also called the parametric g-formula), an estimation method for causal inference which involves estimating outcome regressions under substitutions to the data.
 
-<a href="https://github.com/hoffmakl/CI-visual-guides/blob/master/visual-guides/G-Computation.pdf"><img src="https://github.com/hoffmakl/CI-visual-guides/blob/master/readme_img/G-Computation.jpeg" width=60%/>
+<a href="https://github.com/hoffmakl/CI-visual-guides/blob/master/visual-guides/G-Computation.pdf"><img src="https://github.com/hoffmakl/CI-visual-guides/blob/master/readme_img/G-Computation.jpg" width=60%/>
   
 4. [Causal inference intervention types](visual-guides/Types_of_Interventions.pdf) with examples using U.S. air pollution data and a corresponding [blog post](https://www.khstats.com/blog/lmtp/lmtp/)
 
