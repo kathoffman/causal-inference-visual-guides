@@ -1,8 +1,14 @@
 # Visual Guides for Causal Inference
 
+### A collection of visual guides designed to help applied scientists learn causal inference.
+
+***
+
 [![DOI](https://zenodo.org/badge/247963255.svg)](https://zenodo.org/badge/latestdoi/247963255)
 
-A collection of visual guides designed to help applied scientists learn causal inference.
+This repository is licensed under a CC BY 4.0. This means you are free to share or adapt these materials however you see fit as long as you provide attribution (Kat Hoffman).
+
+***
 
 Current guides and educational illustrations include:
 
@@ -40,13 +46,10 @@ I've also recently been playing around with comics for causal inference concepts
 
 <a href="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/comics/underlying_distributions.jpg"><img src="https://github.com/hoffmakl/causal-inference-visual-guides/blob/master/comics/underlying_distributions.jpg" width=70%/>  
    
-
-# Citation
-
-To cite this repository, please use:
-
-> Katherine Hoffman. (2020, November 27). hoffmakl/causal-inference-visual-guides: Visual Guides for Causal Inference (Version 1.01). Zenodo. http://doi.org/10.5281/zenodo.4293931
-
 # References
 
 Laan, M. J., & Rose, S. (2011). Targeted learning: Causal inference for observational and experimental data. New York: Springer.
+
+# Licensing
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/kathoffman/causal-inference-visual-guides">Visual Guides for Causal Inference</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="http://www.khstats.com">Kat Hoffman</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
