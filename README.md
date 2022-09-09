@@ -19,10 +19,14 @@ Current guides and educational illustrations include:
 2. [Superlearning](visual-guides/Superlearner.pdf) (also known as stacking), an ensemble learning method recommended to use with TMLE. A full tutorial with `R` code is available on my [blog](https://www.khstats.com/blog/sl/superlearning/).
 
 <a href="https://github.com/hoffmakl/CI-visual-guides/blob/master/visual-guides/Superlearner.pdf"><img src="https://github.com/hoffmakl/CI-visual-guides/blob/master/readme_img/Superlearning.jpg" width=60%/>
-
+  
 3. [G-computation](visual-guides/G-Computation.pdf) (also called the parametric g-formula), an estimation method for causal inference which involves estimating outcome regressions under substitutions to the data.
 
 <a href="https://github.com/hoffmakl/CI-visual-guides/blob/master/visual-guides/G-Computation.pdf"><img src="https://github.com/hoffmakl/CI-visual-guides/blob/master/readme_img/G-Computation.jpg" width=60%/>
+
+4. [Inverse Probability Weighting](visual-guides/IPW.pdf) an estimation method for causal inference which involves estimating treatment regressions (propensity scores) and reweighting the observed outcomes.
+
+<a href="https://github.com/hoffmakl/CI-visual-guides/blob/master/visual-guides/IPW.pdf"><img src="https://github.com/hoffmakl/CI-visual-guides/blob/master/readme_img/IPW.jpg" width=60%/>
   
 4. [Causal inference intervention types](visual-guides/Types_of_Interventions.pdf) with examples using U.S. air pollution data and a corresponding [blog post](https://www.khstats.com/blog/lmtp/lmtp/)
 
